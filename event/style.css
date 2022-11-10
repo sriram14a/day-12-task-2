@@ -1,0 +1,16 @@
+.background{
+    background-image: linear-gradient(to right,rgba(0,0,0,0.9),rgba(0,0,0,0.3)),url('./images/events-colorful-typography-banner-260nw-1356206768.webp');
+}
+
+.image{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+.borders{
+    border: 1px solid rgba(0, 0, 0, 0);
+    background-color: rgba(240, 248, 255, 0.81);
+    padding-left:150px ;
+    padding-right:150px ;
+    border-radius: 10px;
+}
